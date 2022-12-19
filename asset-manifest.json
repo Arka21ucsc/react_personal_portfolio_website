@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b47721e.css",
+    "main.js": "/static/js/main.514816bc.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/gradpic.jpg": "/static/media/gradpic.87ec9aeb66dd438bf189.jpg",
+    "static/media/Arka_tennis.jpg": "/static/media/Arka_tennis.2974862e7e08b6b2ba4d.jpg",
+    "static/media/resume.pdf": "/static/media/resume.87c25033218d4fc6314e.pdf",
+    "static/media/logo-A.jpg": "/static/media/logo-A.137c2c0a453a6769cde0.jpg",
+    "static/media/wavestyled.png": "/static/media/wavestyled.b2d6fafa392a6279d69b.png",
+    "static/media/Arka_guitar.jpg": "/static/media/Arka_guitar.3218f3ab40616ddbabde.jpg",
+    "static/media/workout.jpg": "/static/media/workout.d6d7c287789c847f005e.jpg",
+    "static/media/bitcoin.png": "/static/media/bitcoin.8dade9ed87416e9d848a.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/kvs.jpg": "/static/media/kvs.f723826c033b2a3e6df1.jpg",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.1b47721e.css.map": "/static/css/main.1b47721e.css.map",
+    "main.514816bc.js.map": "/static/js/main.514816bc.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b47721e.css",
+    "static/js/main.514816bc.js"
+  ]
+}
